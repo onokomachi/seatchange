@@ -1,0 +1,6 @@
+{
+  "name": "4-3 席替えアプリ",
+  "description": "4-3クラス用の席替えアプリ。教師視点・児童視点（逆から見た図）の切り替え、全員ver/国・算ver（3名を後列に固定）、男女固定席、特定児童(18番と20番)の隣接制限に対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
